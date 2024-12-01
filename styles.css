@@ -1,0 +1,11 @@
+
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.reading-mode {
+    background-color: #f5deb3;
+    color: #333;
+    filter: sepia(1) brightness(0.9);
+}
